@@ -1,6 +1,5 @@
 // Justin Burrill
 // apr 26 2023
-// isc4u assignment 8
 
 mod utils;
 use std::{cmp, io::Write};
